@@ -13,12 +13,12 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Umuzi-org/Thabiso-Mokgete-240-plotly-dashboard-assignment-python.git
+    git clone https://github.com/Thxbiso-DS/financial-service-uses-dashboard.git
     ```
 
 2. Navigate to the directory:
     ```bash 
-    cd /Thabiso-Mokgete-240-plotly-dashboard-assignment-python/
+    cd financial-service-use-in-tanzania/
     ```
 
 3. Create a virtual environment with a name of your choice or the given name:
@@ -54,7 +54,7 @@
    ```
 ## Author 
 Thabiso Mokgete  
-* thabiso.mokgete@umuzi.org
+* s.mokgete@gmail.com
 
 ## License 
 Copyright © 2023 [Thabiso Mokgete](https://github.com/Thxbiso-DS).<br />
